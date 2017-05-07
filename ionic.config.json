@@ -1,6 +1,7 @@
 {
-  "name": "nutri-weight-mobile",
+  "name": "nutri-weight",
   "app_id": "",
+  "projectTypeId": "ionic-angular",
   "v2": true,
   "typescript": true
 }
